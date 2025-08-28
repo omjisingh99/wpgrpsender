@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-group-creator",
+  "version": "1.0.0",
+  "description": "Automatically create WhatsApp group and add numbers using whatsapp-web.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Om Ji",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  }
+}
